@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Video y Chat en Vivo</title>
+</head>
+<body>
+    <div style="display: flex; justify-content: space-around;">
+        <div>
+            <!-- Código de inserción del video -->
+            <iframe width="560" height="315" src="https://www.youtube.com/watch?v=CCl09E_NBXQ&ab_channel=RelaxingGhibliPiano" frameborder="0" allowfullscreen></iframe>
+        </div>
+        <div>
+            <!-- Código de inserción del chat en vivo -->
+            <iframe src="https://www.youtube.com/live_chat?is_popout=1&v=CCl09E_NBXQ" width="350" height="500" frameborder="0" allowfullscreen></iframe>
+        </div>
+    </div>
+</body>
+</html>
